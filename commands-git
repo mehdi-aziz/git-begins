@@ -1,0 +1,8 @@
+git clone https://github.com/{prenom-nom}/{nom de votre repository}.git
+
+git push -all
+
+git push -force
+
+git push -tasks
+
